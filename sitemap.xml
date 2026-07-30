@@ -1,254 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sangsu-room-zone.link-hub.org/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-zone.link-hub.org/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sangsu-room-zone.link-hub.org/</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://sangsu-room-zone.link-hub.org/about.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-zone.link-hub.org/blog.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/field_note-001-dpkr8b.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-zone.link-hub.org/posts/guide-002-dpkr8b.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-zone.link-hub.org/posts/juice-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-zone.link-hub.org/posts/juice-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-zone.link-hub.org/posts/normal-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-zone.link-hub.org/posts/normal-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-zone.link-hub.org/posts/normal-3.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-zone.link-hub.org/posts/t3link-001-ky3hi0.html</loc>
-    <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260705-626.html</loc>
-    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0403.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0404.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0405.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0406.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0407.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0408.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0409.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0410.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0411.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0412.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0413.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0414.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0415.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0416.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0417.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0418.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0419.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260719-0420.html</loc>
-    <lastmod>2026-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260721-0188.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260722-0067.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260722-0068.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260722-0069.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260722-0070.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260722-0071.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260722-0072.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260722-0073.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260722-0074.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260722-0075.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260722-0076.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-zone.link-hub.org/posts/gemini-coverage-20260722-0077.html</loc>
-    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-zone.link-hub.org/posts/guide-002-dpkr8b.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-zone.link-hub.org/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-zone.link-hub.org/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-zone.link-hub.org/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-zone.link-hub.org/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-zone.link-hub.org/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-zone.link-hub.org/posts/t3link-001-ky3hi0.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
